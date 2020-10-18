@@ -1,0 +1,201 @@
+,Type,Submission HTML Removed
+4,2,"I am a bit confused about the last section of the this problem set about making a kaleidoscope. Do I need to know how to get all four sprites to draw at once like the animation shows? Also, which scripts do I need to use to get the sprites to go in different directions?"
+9,0,"Hi! Just to clarify, for the Build Your Own Blocks! Checkoff, since we haven't been assigned our instructor/TA that we meet with yet, who should we pick? 
+
+Also, for the Checkoff is the file submission the field of flowers?"
+13,0,"I exported this project. but then i went back to edit my field of flowers and then snap crashed on me and I lost all of my work. I still have the xml file but I don't know how to re-open it in snap. help 
+"
+15,2,"I managed to make my program draw beautiful little random flowers. Now, all flowers are lovely, but some more than others :D However, it is not easy to replicate certain shapes manually. Is there a way my function can tell me which random numbers it picked for its last operation? "
+17,0,"Hi, I just want to ask, will I get in trouble if I accidentally choose the wrong TA when I am uploading this assignment? I accidentally choose Dani but my assigned TA should be Aaron. Really sorry for any inconvenience.   "
+21,0,"I had already submitted my google checkoff form yesterday, but today I went back and edited my code. Is there a way that I can just re-upload the code without re-answering all the checkoff questions? (For reference, I did not send myself a copy of my responses) "
+23,0,Nvm how do i delete this now XD
+97,0,"Hey! This is the webpage I was talking about:
+
+https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic"
+99,0,"When will we know who we are doing the check-in (Friday) with? It's one of the questions on the pset 2's check off.
+"
+166,3,"Hello, I had the same problem first.
+
+""... but I don’t think that allows my code to keep track of the total # of tries."" - Actually, that is possible! This is how I figured it out: When you start the game, you are at your first try. When you have to try it a second time - in which way does the variable change? And at which point in the script? ... And, of course, which commands does Snap offer to change a variable?
+
+That answer is a little cryptic but I hope it makes it easier for you to get to the solution :D Does this help you?"
+168,2,"Hey, thank you both so much! I’m not sure if I understood what you said correctly but what I did was, I made a [words abstracted away by Maxson for educational purposes hehe]. The problem I have here is that on the times where I got my answer on the first try, the number of tries show up as 2 (because of the +1 factor)."
+177,1,"Thank you!
+
+I created a new block .  Can I use stepping tool on that? Also where's the stepping tool, I had a hard time finding it. 
+I used if else statement and put report inside of if and else statement. It still doesn't do it."
+249,0,"Hello, I just finished going through Problem Set 4 and I didn't come across anything regarding creating a ""Valid-Date Block"", ""sum of two smallest"" block in the lesson, or answering ""(Problem 3) Sum of numbers between x and y."" I wanted to ask if I potentially missed something, a mistake was made, or it's covered somewhere else? Thanks!
+"
+252,2,"I'm doing the keep function right now. When I assigned a list of items to a variable and use the variable in the keep function, it kept returning ""error expecting list but getting number."" Once I took the list out and put it straight into the keep function though, it worked. Just now, I returned the list back to the ""set variable to"" block, and it worked again. I also tried taking out the list and placing it in the script workplace (but not in either the set variable block or the keep function), and I kept the variable in the keep function, and it worked as well. Is this just Snap being wonky? And is there any way I can prevent it from happening in the future because I spent a good twenty minutes finagling around thinking I did something wrong..."
+254,1,"Hi, I am working on my acronym block but continue to get an error that says expecting list but getting text and am unsure on how to fix this, or even what this means. Any insight on this would be appreciated, as well as a hint to push me in the right direction"
+259,2,I have been trying to figure out this one for a while now. Can anyone help me? Write an expression that selects from a list of words the ones that start with a vowel. (Hint: Use contains in the Variables palette.)
+262,2,I am working on building the expand block but I am stuck. I know how to figure out what the number in the sentence is but I am not sure how to move forward since I don't know where the number is in the list. Can anyone help or provide any hints? 
+273,2,I am stuck on the longest word block. Can someone please help and explain how to better understand lists and the way they function in order to find the longest word in a sentence!
+275,2,"Is there a way we can compare 2 lists of individual characters? It's for the Hangman part of PS4. 
+"
+278,2,"How do I find if there is a number in my list? What I put for my expand block is that I used ""sentence"" as the user's input for my block. Then I used the for each item loop and I put: ""for each item in sentence"" ""if (list --&gt; sentence (sentence)) contains ""numbers"" (which I defined as a variable and used the ""numbers 1 to 10 block"") then report true. And then when I input a sentence with a number it says that it expects list but is getting text. Can someone please help me out here? "
+281,2,I am working on the expand block and I am having trouble selecting the number (once I make the sentence into a list) and making the word that follows repeat however many times is specified. I have been working on this for a couple hours and I am still not getting anywhere. Are there any hints that I can have to point me in the correct direction?
+287,1,"Hi! I'm having trouble understanding the memoization block (find the number X in the sorted list X using X). Could someone help explain what I'm supposed to do, and maybe give a hint to nudge me in the right direction? Thanks!"
+290,0,"I'm a bit confused about the other blocks in the script that was provided to us... Do we have to code the helper block ""find the number in the sorted list X"" algorithm (the one with the ""memory"" input)? And what are the ""max random"" and ""test runs"" variables for? I'm also not sure what the ""time..."" blocks are for... "
+297,3,"Sorry, another question here. I think that I've successfully made the memoize block (Find number X in the sorted list X using X) as it does what it's supposed to do, but when I use the timer it actually takes longer than the other methods? Should I make a private post to ask about this? Additionally, is this block part of the checkoff? It's not listed but I just want to make sure."
+299,3,"Hi, I got stuck in problem set 5 with the sorted list. A moment ago I thought I had figured it all out, the algorithm was working fine until I checked the very last number in a list and then something collided. That showed me the code is not working the way it should. I also feel like I did what I learned is called ""hard-coding"" since I am not using HOFs... I did not come up with any idea on how to use them in this case... 
+
+So, I think my main question is: Do I need a HOF? Which HOF is suited for this task?"
+305,3,"Is there an instructor to whom I can send a copy of my code to for the ""find the number in the sorted list"" block? When I tested it manually with every combination I can think of it works, but the ""time sorted number finder"" is still saying that my finder block is not working properly. I've gone through many rounds of debugging now and I'm really not sure what I'm doing wrong at this point. Thanks!"
+307,3,"Hi! So I made the memoization block and it's working. However, when I run the timer block, the times I get are around the same time as the time it takes for the sorted list block. The average seems to be a bit lower than the sorted list block though. Is the memoization block supposed to be significantly faster than the sorted list block or only a little bit? Thanks!"
+363,0,I am struggling too. Is there someone who can help me?
+401,1,"
+
+I created the same exact code as it is shown on the reading. But it doesn't give me the same 'BC' result. "
+403,1,Also for the acronym can I start over as a new block? instead of modifying the given code on the reading. That given code doesn't work anyways.
+405,2,"I build the block over. I didn't use combine, map, keep items. Is that ok? I didn't modify the existing block, I started a new one. Is that ok? I'm not sure if modifying is required or just recommended."
+411,2,"I'm trying to approach this problem by doing the following steps: 
+-keep only the number in the list and word after number
+-make the word repeat for n times
+-combine word repeated n times with everything"
+440,1,"Ok, thank you so much!  I think I was just having a bit of trouble with the syntax of snap and I kept mixing around whether I wanted the actual value or the index in my functions."
+450,0,"Problem Set 5 Algorithm
+"
+483,0,"Hi, I'm trying to download the code given in the Starting Materials but it doesn't seem to work. "
+486,1,"Screen_Shot_2020-07-06_at_8.36.40_PM.png
+
+I'm having trouble understanding exactly what we are supposed to do. When it says ""at least TWO boards as input cases,"" does this mean we make two imaginary examples (like in the lecture when Aaron tested 3 different lists for the ""remove duplicates"" block)? And these will return false also, because we haven't filled out the ""merge column () of () up"" yet?
+
+Additionally, I didn't see any test for the rotate clockwise only. Did I miss it somewhere in the checkoff instructions/starting material file?
+
+Thank you!"
+489,,"To distinguish between merge up and merge column, does merge column mean that if we have 2 and 2 right on top of each other, it will move up and the new values will be 4 and 0 (from top to bottom)? I can't really understand how merge up is different because I feel like it's just the same thing as what I just said but for one column. I looked at the blog and they only differentiate between ""move up"" and ""merge column"". Is merge up the same as move up according to the blog?"
+496,2,"Hi, I need some help with the tic tac toe game. I implemented all my blocks, but it seems to me the pre-build framework is having issues 😳 First, the say commands are not working for me, I saw in the script of „play tic-tac-toe“ that the game is supposed to give me some feedback. But besides the question in the beginning about whether I would like to play as x or o it does not talk to me at all...Second, in the command „draw x-or-o at location cur player“, the variable location says its expecting a list but getting text. The current (pre-set) input of location is „find square location square“.I identified that part using visual stepping and I can see no connection with my own blocks at the moment. Can someone please help me out with this?"
+500,2,"When filling out the ""status of triple"" block, the hint says to use a HOF with ""item () of []"". What if I only used ""item () of []"" and did not need a HOF? Should I be using one?"
+502,1,"Hi, I sometimes get this error when I try to run my whole code by pressing the green flag. It, I believe, is not only preventing me from creating new bugs on the board, but also from moving my player. If anyone has any insight please let me know. I will include a picture of the error, but I don't want to cheat so I won't include a picture of my code here. Thanks to anyone who can help.
+
+"
+505,0,"Since I need to work on two snap files in the lab, how do I submit it as one XML file?
+Thank you!
+"
+508,0,nvm
+509,2,"for ""status of all winning triples"" it only reports the first 3 triple combinations not the rest, I am unsure if this is a problem with my original ""status of triples"" block or with my current block just wondering if anyone might have encountered a similar problem"
+511,2,"I can get the 1st 2 blocks to work w/o HOFs but by the 3rd block I've hit a wall, I'm not sure if that's because I didn't use HOFs or if I'm misunderstanding how to do the 3rd block, I just don't understand how to use HOFs with the 1st block nothing I do seems to work, right now I've been focusing on trying to use the ""keep"" HOF, am I going down the wrong path on this?"
+513,1,"
+
+
+Why does it keep saying getting text instead of list since the variable ""board"" is a list?
+Thank you!
+"
+518,1,Is there a function we can use to stop the timer? 
+570,2,"Thank you for your help, Yolanda!
+
+I was also wondering about the Player (green turtle sprite) moving off of the board. We prevented the bug sprite from being placed out of the board through the ""inside block"" condition, but the spec didn't mention anything about doing something similar for the Player. Should we still account for Player?
+
+Also how we would turn in our code? We had to work with two different starter files, so it seems like it'd be a lot of work to copy code from one file to another... How should we combine them? 
+
+"
+573,3,"Another problem came up that I couldn't figure out... 
+
+
+
+These two blocks work fine when they're not put together. The first large group of blocks shows the row and column of the space that I clicked on the board, and the gray ""create"" block will create a bug sprite on the space that I clicked. When I put them together, without rerunning the entire block, the game works fine. However, after I join these two blocks and run the entire block (clicking on ""when mouse and inside block""), I get an error saying ""Inside: Error expecting list but getting text"". I don't really understand what's happening here or how I would fix this situation...
+
+Here is my code! If you open it, click the green flag, and start clicking on the board, there is no problem. However, once you click on the large block I described above, the error I described occurs. 
+
+PSet7__Boards2.xml
+
+Thanks so much!"
+607,2,"Ohh I see. I redid the code for the acronym problem but for some reason I keep getting an output of ""B a J o C"" instead of ""BJC"". Could you take a look at my code and let me know what went wrong?
+Screen_Shot_2020-07-13_at_1.50.52_PM.png"
+621,,"For the ""crazy tree"" block, I've added a variable to store the original position and direction, and also ensured that it is restored to that at the end of the block, but I think I'm supposed to do that even before the crazy tree recursive case? In any case, it does create a crazy tree, but not the one shown in the instructions."
+623,1,Can someone explain what these questions mean?
+627,0,"Hi, I just wanted to clarify about one of the questions. It says that it is an “optional exercise” does this mean we do not need to write an answer? Sorry if this is super obvious just want to double check before I submit! "
+629,1,"For the number block that we need to submit, do you mean even or odd or merging?
+And what is the ends_block?
+Thank you"
+677,0,"Got it, thanks!"
+749,0,Is the calendar on cs10 website not working again?
+752,1,"At the end of problem set 10 it says to fill out a survey to get credit for the lab, but when I clicked the link it said ""you need permission"".
+
+Are we supposed to instead just do the checkoff when it is on the website? "
+754,1,Reversing Strings page says to download a file to run the autograder but I don't see any files or anything to click on?
+757,1,"When I try to do anything with Turtle, I get this message:
+
+Traceback (most recent call last):
+  File ""lab1.py"", line 1, in &lt;module&gt;
+    import turtle
+  File ""/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/turtle.py"", line 107, in &lt;module&gt;
+    import tkinter as TK
+  File ""/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/tkinter/__init__.py"", line 36, in &lt;module&gt;
+    import _tkinter # If this fails your Python may not be configured for Tk
+ModuleNotFoundError: No module named '_tkinter'
+
+What am I doing wrong/how do I fix this? Thank you!"
+763,2,"
+I am a bit confused with this part of PSET 10. I copied the code into my text editor (atom) and I only copied def times_5(x) then return 5*x and times_5(3) but for some reason it's not running and is giving me a syntax error. What am I supposed to print into terminal for this code to work? "
+765,1,"In the checkoff, it says “Show your c-curve function and it’s output”. Which one are they talking about?"
+768,2,I am working on the reverse_string block in excercise 4. It says we are not supposed to use the [::-1] syntax. How do I reverse the string without calling a certain letter or using all but last of?
+772,2,"For the c-curve question, I'm confused on how to translate the act of moving size steps into python. Is there a built in python command that performs the same function as move does in snap?"
+776,0,I believe that the webpages for problem sets 10 and 11 are the same. 
+779,0,"I thought that the problem sets were using same webpage so I used the autograder from problem set 10 for my submission on problem set 11, can I resubmit?"
+782,2,"Hi! I'm working on exercise 5.
+
+The recursive part of my function works fine (for both strings and integers) but I'm having trouble figuring out what the base case should return in order to make it work for both data types. I can change my code to work for one of the two (by changing what the base case returns) but don't know how to combine the two. Any hints or suggestions?"
+784,0,"Just to clarify, do we only need to upload the autograder results for the exercises that the spec says to run the autograder? I tried running the autograder on exercises that did not specify to do so; I still got results from the autograder, but I wasn't sure if we needed to show these results as well."
+789,1,"what does return """" mean?
+thx"
+794,,
+796,1,"I'm getting a message in my terminal that the test is running, but  it just stays like this and never returns anything. Has anyone else experience this or know what's happening?"
+798,2,"This is for exercise 4. When I coded it a few days ago, it worked fine, but when I was testing everything before turning the problem set in, I was getting this error. The weird thing is, when I tossed the same exact code into Spyder to test it there, it worked fine, so I'm not sure what the problem is with running it in terminal.
+"
+847,1,Is this in Snap! or Python ?
+849,0,"There are a few checkoff questions that ask us to both show the block and explain how it was made. However, in the google form, there isn't a space for the explanation. Where should we write out answers then?
+"
+851,2,"I found a way to check if a number is pandigital, but there are is a number that also applies to the condition I use which is not pandigital. So my algorithm is not 100% correct. Can someone give me a hint on what the algorithm should check? Without recursion etc..."
+894,1,"Thanks for the feedback! This one return 'SECRET MESSAGE' without swapping the letters.
+
+"
+905,2,"Oh I didn't see that! I imported it as turtle at the beginning, but even after fixing that line (t.forward(size)), it's still giving me an error for turtle.right(90). It says invalid syntax :( "
+912,2,"I'm working on the print_top_n_words function, and when I run it with the example dictionary, I get:
+Vegetables 5
+and 5
+None 
+
+When I rerun it a couple of times, it sometimes changes to:
+and 5 
+Vegetables 5
+None
+
+Why is it that ""and 5"" is sometimes before and sometimes after ""Vegetables 5""? Also, why do I always have ""None"" at the end? Any advice on how to fix this? 
+
+"
+920,0,"Hi! I believe there's an error on the checkoff-- it repeats the question ""Name the logarithmic time algorithm that we implemented in Lab 6. Explain why this algorithm runs in logarithmic time."" twice instead of that and ""What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct? block? Why?""
+
+Thank you!"
+922,1,"I'm having some trouble understanding the second to last question on the checkoff. What does the question mean when it says ""counter up the numbers between 1 and x"" and ""multiply top number""?"
+924,1,"There is this Check-Off question:
+
+""Name the logarithmic time algorithm that we implemented in Lab 6. Explain why this algorithm runs in logarithmic time.""
+
+What is Lab 6?"
+957,0,"The indentation error was for a different, older piece of code that I deleted, but I did indeed redefine the helper function later on. I changed it, and it works now. Thank you so much!"
+964,0,I tried that but it gives the same error. 
+993,0,Thank you!
+1014,2,"Since there was no real coding and this topic is mostly abstract, what should we submit as the XML file? There are no functions requested on the problem set page, but the question on the survey is still required and there were a lot to download to see."
+1016,2,"I am struggling to understand why using ""broadcast"" instead of ""broadcast and wait"" does not produce the right output in the last part of the lab (second last and last page). Don't the blocks still go sequentially even if we don't ""broadcast and wait""? Any hints?"
+1089,2,"Thank you! I changed the bounds to for 1 to length of word, but I'm still getting the same error that says ""Inside: error. Expecting list but getting text."" Does this have to do with my report block—should I be using join instead of just reporting a list?"
+1118,0,"Do we still need to upload a screenshot to the checkoff?
+"
+1128,0,There doesn't seem to be a link for pset 17 checkoffs. Could you please check this? Thank you!
+1131,1,"For the UCBMFET exercise, the instructions say to create a class attribute called ""posts"" (initialized to an empty dictionary) and to also create an instance attribute called ""posts"" (initialized to 0).
+
+Is this on purpose? Does this cause confusion between the two attributes?"
+1133,1,A UCBMFET class? That's such a dumb idea. I wonder who came up with that ...
+1202,2,"Can I just check title in the key list to see whether it already exist?
+Like:
+
+for i in the range (0,len(Book.varieties[self.genre]):
+     if Book.varieties[self.genre](i)==self.title:
+             ..........
+            "
+1206,1,"Hello Yolanda:
+
+I am confused about the test code for this project. I can do like a name to put into the class, but how about the title of the post and maybe the post and the like thing?
+Thank you!
+"
