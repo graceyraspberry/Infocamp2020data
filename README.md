@@ -54,6 +54,9 @@ I aggregated the data with total question counts and predicted bloom proportions
 Here is a plot of the student data:
 ![student plot](https://github.com/graceyraspberry/Infocamp2020data/blob/main/images/studentplot.png)
 
+# Discussion of methods
+Our sample size was very small, so our model has high variability and may lead to bias. We used 5-fold cross-validation to resample and retrain our model.
+
 # Dashboard Visualization
 
 Our final dashboard is a full stack web app built with Django and HTML/Javascript. The github repo is [here](https://github.com/maxsonyang/Infocamp2020).
