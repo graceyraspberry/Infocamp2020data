@@ -1,5 +1,5 @@
 # Infocamp2020 Data Analysis
-Algorithm to analyze student questions from Piazza for Infocamp 2020
+Algorithm to analyze student questions from Piazza for [Infocamp 2020](https://infocamp.ischool.berkeley.edu/)
 
 # Data Source
 I pulled our sample of ~200 questions from the Piazza discussion board from [CS10 the beauty and joy of computing](https://cs10.org/su20/). The data contained three data structures with student, contribution, and post information.
