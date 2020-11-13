@@ -12,10 +12,7 @@ I used a modified version of the [Bloom and Garrison et al 2001](https://pdfs.se
 2. Exploration/Analysis
 3. Create/Expand
 
-Here is the raw student data and content data structures.
-![student data](https://github.com/graceyraspberry/Infocamp2020data/blob/main/images/student.png)
-
-![content data](https://github.com/graceyraspberry/Infocamp2020data/blob/main/images/content.png)
+We examined the data from Piazza's interface. 
 
 The `all_data` DataFrame contains the labeled data that we used to train our model. It contains 21 columns, but the ones we care about are:
 
